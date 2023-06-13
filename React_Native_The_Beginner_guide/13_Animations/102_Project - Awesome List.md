@@ -1,3 +1,0 @@
-# Project : Awesome List 
-
-
