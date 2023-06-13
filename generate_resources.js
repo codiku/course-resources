@@ -24,7 +24,7 @@ const createDirectory = (directory) => {
 // Function to create the links.md file with the list of links
 const createResourceFile = (directoryPath, links, title) => {
   const linksContent = links
-    .map((link) => `[${link.link_title}]:(${link.link_url})`)
+    .map((link) => `[${link.link_title}](${link.link_url})`)
     .join("\n");
   fs.writeFileSync(directoryPath, title + "\n" + linksContent);
   console.log(`Created links.md file: ${directoryPath}`);

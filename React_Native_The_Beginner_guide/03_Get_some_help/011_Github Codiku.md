@@ -1,4 +1,4 @@
 # Github Codiku 
 
 
-[Github link]:(https://github.com/codiku)
+[Github link](https://github.com/codiku)
