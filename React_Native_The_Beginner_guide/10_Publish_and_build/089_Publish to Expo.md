@@ -1,2 +1,0 @@
-# Publish to Expo 
-
