@@ -1,2 +1,0 @@
-# Android Emulator - Windows 
-
