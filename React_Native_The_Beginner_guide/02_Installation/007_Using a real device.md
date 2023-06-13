@@ -1,3 +1,0 @@
-# Using a real device 
-
-
