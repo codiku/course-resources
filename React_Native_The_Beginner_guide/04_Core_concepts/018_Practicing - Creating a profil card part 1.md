@@ -1,7 +1,7 @@
 # Practicing : Creating a profil card part 1 
 
 
-> :bulb: **ctrl+ left click** to open link in a new tab 
+> :bulb: **(ctrl or cmd)+ left click** to open link in a new tab 
 
 [Branch](https://github.com/codiku/react-native-introduction/tree/004-EN-profil-card-p1)
 

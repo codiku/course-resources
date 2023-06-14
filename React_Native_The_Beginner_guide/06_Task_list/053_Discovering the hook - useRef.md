@@ -1,7 +1,7 @@
 # Discovering the hook : useRef 
 
 
-> :bulb: **ctrl+ left click** to open link in a new tab 
+> :bulb: **(ctrl or cmd)+ left click** to open link in a new tab 
 
 [Cloning the starter](https://raw.githubusercontent.com/codiku/ressources/master/clone_useRef_starter_command.txt)
 

@@ -1,7 +1,7 @@
 # Introducing the project 
 
 
-> :bulb: **ctrl+ left click** to open link in a new tab 
+> :bulb: **(ctrl or cmd)+ left click** to open link in a new tab 
 
 [Mockup img 1](https://github.com/codiku/ressources/blob/master/RN_mockup-weather-1.png)
 
