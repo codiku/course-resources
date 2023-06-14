@@ -1,6 +1,5 @@
 # Introduction 
 
+> :bulb: **Tip:** ctrl+ left click to open link in a new tab 
 
-
-
-
+[Methods]( https://github.com/codiku/ressources/blob/master/RN_EN_dev_methods.md)
