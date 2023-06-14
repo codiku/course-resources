@@ -1,6 +1,6 @@
 # Introduction 
 
-[Link](https://example.com){:target="_blank" rel="noopener"}
+[Link to example.com (opens in new tab)](https://example.com)
 
 
 
